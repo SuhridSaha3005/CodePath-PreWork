@@ -5,7 +5,7 @@ If you click a wrong key, you lose. If you survive for 8 turns, you win.
 
 ## Controls
 Click on any key to play corresponding sound. Press "Start" to start game and "Stop" to end game. <br />
-It prints "Game Over!" and "You Won!" in the Java executive tab/terminal.
+It prints "Game Over!" and "You Won!" in the Java execution tab/terminal.
 
 ## Files
 * Engine.java = Main engine for game. Runs in main method
