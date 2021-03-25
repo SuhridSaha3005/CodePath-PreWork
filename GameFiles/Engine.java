@@ -1,3 +1,4 @@
+package GameFiles;
 import javax.swing.*;
 
 /* This class runs the main game */

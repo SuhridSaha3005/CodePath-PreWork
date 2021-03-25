@@ -1,3 +1,4 @@
+package GameFiles;
 import edu.princeton.cs.introcs.Stopwatch;
 
 import javax.sound.midi.MidiChannel;

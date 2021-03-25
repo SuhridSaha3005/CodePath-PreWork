@@ -1,3 +1,5 @@
+package GameFiles;
+import edu.princeton.cs.introcs.StdRandom;
 import edu.princeton.cs.introcs.Stopwatch;
 
 import java.awt.event.MouseAdapter;

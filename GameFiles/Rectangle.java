@@ -1,3 +1,4 @@
+package GameFiles;
 import java.awt.*;
 
 /* This class creates and draws rectangles on the game Panel */
